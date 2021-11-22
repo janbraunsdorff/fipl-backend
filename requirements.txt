@@ -1,0 +1,6 @@
+flask >= 2.0.2
+flask-cors
+pandas
+numpy
+Flask-SQLAlchemy >= 2.5.1
+psycopg2-binary
